@@ -58,7 +58,7 @@ body{
         padding: 0;
         margin: -5px;
     }
-    body{
-        background-size: cover;
+    html{
+        width: 100%;
     }
  }
