@@ -1,0 +1,7 @@
+Developed a responsive Simon game using HTML, CSS, and JavaScript with jQuery. 
+The game generates a random sequence of colored buttons and challenges the player to repeat it. 
+Implemented touch and keyboard event listeners for user interaction. 
+Incorporated sound effects and visual animations for a dynamic user experience. 
+Maintained game state variables and implemented a level progression system. 
+Created functions for checking user input, handling correct and incorrect sequences, and restarting the game. 
+Designed a game-over scenario with visual and auditory cues. Overall, demonstrated proficiency in front-end development, user interaction, and game logic implementation.
